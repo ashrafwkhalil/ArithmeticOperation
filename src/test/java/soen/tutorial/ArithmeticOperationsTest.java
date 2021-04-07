@@ -3,7 +3,7 @@ package soen.tutorial;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
-import statis org.junit.Assert.fail;
+import static org.junit.Assert.fail;
 
 public class ArithmeticOperationsTest {
 
